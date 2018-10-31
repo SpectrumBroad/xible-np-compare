@@ -1,0 +1,13 @@
+{
+	"name": "compare.equal",
+	"type": "object",
+	"description": "Compares all inputs and verifies that they equal.",
+	"inputs": {
+		"values": {}
+	},
+	"outputs": {
+		"result": {
+			"type": "boolean"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "name": "xible-np-compare",
+  "version": "0.1.0",
+  "description": "Comparison nodes for XIBLE.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spectrumbroad/xible-np-compare"
+  },
+  "bugs": {
+    "url": "https://github.com/spectrumbroad/xible-np-compare/issues",
+    "email": "bugs@xible.io"
+  },
+  "keywords": [
+    "xible",
+    "compare",
+    "nodepack"
+  ]
+}
